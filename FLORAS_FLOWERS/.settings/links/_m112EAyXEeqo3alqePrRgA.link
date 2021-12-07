@@ -1,0 +1,29 @@
+{
+  "itemId" : "_m112EAyXEeqo3alqePrRgA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_Xy734FeVEeyky4qGCWjxvw",
+    "parameterList" : [ {
+      "id" : "_X0unoFeVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_login"
+    }, {
+      "id" : "_X0unoVeVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_pw"
+    }, {
+      "id" : "_X0unoleVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_port"
+    }, {
+      "id" : "_X0uno1eVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_server"
+    }, {
+      "id" : "_X0unpFeVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_sales_database"
+    }, {
+      "id" : "_X0unpVeVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_params"
+    }, {
+      "id" : "_X0unpleVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_analytics_database"
+    } ]
+  } ]
+}
