@@ -2,25 +2,28 @@
   "itemId" : "_NQxQYA-4EeqLLohh5lMyDw",
   "contextList" : [ {
     "contextName" : "Default",
-    "repoId" : "_ztQ60AyfEeqo3alqePrRgA",
+    "repoId" : "_Xy734FeVEeyky4qGCWjxvw",
     "parameterList" : [ {
-      "id" : "_XnQYQ4WGEeq_DvJfUB9efw",
-      "name" : "host"
+      "id" : "_X0unoFeVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_login"
     }, {
-      "id" : "_XnQYQYWGEeq_DvJfUB9efw",
-      "name" : "login_id"
+      "id" : "_X0unpFeVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_sales_database"
     }, {
-      "id" : "_XnQYRYWGEeq_DvJfUB9efw",
-      "name" : "params"
+      "id" : "_X0unpVeVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_params"
     }, {
-      "id" : "_XnQYQoWGEeq_DvJfUB9efw",
-      "name" : "password"
+      "id" : "_X0unoleVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_port"
     }, {
-      "id" : "_XnQYRIWGEeq_DvJfUB9efw",
-      "name" : "port"
+      "id" : "_X0unoVeVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_pw"
     }, {
-      "id" : "_XnQYRoWGEeq_DvJfUB9efw",
-      "name" : "sales_db"
+      "id" : "_X0unpleVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_analytics_database"
+    }, {
+      "id" : "_X0uno1eVEeyky4qGCWjxvw",
+      "name" : "connection_mysqlflowers_server"
     } ]
   } ]
 }
